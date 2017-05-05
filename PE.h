@@ -1,3 +1,6 @@
+/*
+ PE Head File.
+*/
 #pragma once
 #include <ntddk.h>
 
